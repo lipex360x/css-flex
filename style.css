@@ -71,3 +71,8 @@ section {
   justify-content: flex-end;
   align-items: center;
 }
+
+.bottom-left {
+  justify-content: flex-start;
+  align-items: flex-end;
+}
