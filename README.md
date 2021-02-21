@@ -19,5 +19,5 @@
 
 ```json
  HTML
- CSS
+ CSS Flex
 ```
