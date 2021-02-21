@@ -54,3 +54,8 @@ section {
   justify-content: flex-end;
   align-items: flex-start;
 }
+
+.center-left {
+  justify-content: flex-start;
+  align-items: center;
+}
