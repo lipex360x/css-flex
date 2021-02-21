@@ -39,21 +39,34 @@ section {
 
   display: flex;
 }
+.box div {
+  font-size: 0.6em;
+  
+}
 
 /* TOP */
 .top-left {
   justify-content: flex-start;
   align-items: flex-start;
 }
+.top-left div {
+  text-align: left;
+}
 
 .top-center {
   justify-content: center;
   align-items: flex-start;
 }
+.top-center div {
+  text-align: center;
+}
 
 .top-right {
   justify-content: flex-end;
   align-items: flex-start;
+}
+.top-right div {
+  text-align: right;
 }
 
 /* CENTER */
@@ -72,6 +85,7 @@ section {
   align-items: center;
 }
 
+/* BOTTOM */
 .bottom-left {
   justify-content: flex-start;
   align-items: flex-end;
