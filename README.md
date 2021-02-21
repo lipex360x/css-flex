@@ -10,7 +10,9 @@
 
 - [Technologies](#zap-technologies)
 
-- [See More](https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQiA8dH-BRD_ARIsAC24umawYwwvdJXuMYfk9u-gcAe2PLHYbATSPBarJ6z_YHaRDaS7BSeVEzIaAqvJEALw_wcB)
+- [Go to live view](https://css-flex.netlify.app/)
+
+- [See More about CSS Flex](https://www.alura.com.br/artigos/css-guia-do-flexbox?gclid=Cj0KCQiA8dH-BRD_ARIsAC24umawYwwvdJXuMYfk9u-gcAe2PLHYbATSPBarJ6z_YHaRDaS7BSeVEzIaAqvJEALw_wcB)
 ---
 
 ### :zap: Technologies
