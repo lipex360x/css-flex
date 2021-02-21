@@ -40,6 +40,7 @@ section {
   display: flex;
 }
 
+/* TOP */
 .top-left {
   justify-content: flex-start;
   align-items: flex-start;
@@ -55,6 +56,7 @@ section {
   align-items: flex-start;
 }
 
+/* CENTER */
 .center-left {
   justify-content: flex-start;
   align-items: center;
@@ -62,5 +64,10 @@ section {
 
 .center-center {
   justify-content: center;
+  align-items: center;
+}
+
+.center-right {
+  justify-content: flex-end;
   align-items: center;
 }
