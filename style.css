@@ -40,49 +40,46 @@ section {
   display: flex;
 }
 .box div {
-  font-size: 0.6em;
+  font-size: 0.7em;
   
 }
 
 /* TOP */
 .top-left {
-  justify-content: flex-start;
   align-items: flex-start;
-}
-.top-left div {
+  justify-content: flex-start;
   text-align: left;
 }
 
 .top-center {
-  justify-content: center;
   align-items: flex-start;
-}
-.top-center div {
+  justify-content: center;
   text-align: center;
 }
 
 .top-right {
-  justify-content: flex-end;
   align-items: flex-start;
-}
-.top-right div {
+  justify-content: flex-end;
   text-align: right;
 }
 
 /* CENTER */
 .center-left {
-  justify-content: flex-start;
   align-items: center;
+  justify-content: flex-start;
+  text-align: left;
 }
 
 .center-center {
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .center-right {
-  justify-content: flex-end;
   align-items: center;
+  justify-content: flex-end;
+  text-align: right;
 }
 
 /* BOTTOM */
