@@ -17,7 +17,7 @@
 
 ### :zap: Technologies
 
-```json
+```
  HTML
  CSS Flex
 ```
